@@ -13,3 +13,8 @@
 .cursor {
     cursor: pointer;
 }
+
+.img-avtar {
+    width: 200px;
+    height: 200px;
+}
